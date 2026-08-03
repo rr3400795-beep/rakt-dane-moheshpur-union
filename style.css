@@ -10,6 +10,22 @@ header{
     text-align:center;
     padding:30px;
 }
+
+header h1{
+    margin:0;
+    font-size:36px;
+}
+
+header p{
+    margin-top:10px;
+}
+
+header{
+    background:#c62828;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
 }
 
     margin:0;
